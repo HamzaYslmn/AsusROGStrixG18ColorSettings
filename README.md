@@ -1,3 +1,3 @@
 # AsusROGStrixG18ColorSettings
 
-icc profiles
+icm profiles
